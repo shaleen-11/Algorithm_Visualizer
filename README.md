@@ -1,1 +1,1 @@
-# Path_Visualizer
+# Algorithm Visualizer
